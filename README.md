@@ -4,15 +4,17 @@ class AboutMe final
 public:
   static const std::string Name() const
   {
-    return "Andreas Maerten";
+    return "r7cep";
   }
 
   static const std::vector<std::string> Languages() const
   {
     return {
       "English",
-      "Dutch",
-      "French"
+      "German",
+      "French",
+      "Arabic",
+      "Spanish"
     };
   }
 
